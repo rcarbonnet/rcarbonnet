@@ -1,2 +1,2 @@
-## Hi, I'm Robin CARBONNET 👋
-BUT Informatique student  at IUT du Limousin
+##👋 Bonjour, je m'appelle Robin CARBONNET,
+étudiant BUT Informatique à l'IUT du Limousin
